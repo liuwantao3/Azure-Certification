@@ -1,5 +1,7 @@
 #### Login Azure Account:
 
+##### PowerShell
+
 `Login-AzureRmAccount`
 
 ##### Azure CLI
